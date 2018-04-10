@@ -2,6 +2,9 @@ package enunciado3;
 
 import java.util.LinkedList;
 
+/**
+ * @author Julen Bujanda
+ */
 public class Libro {
 
     private String titulo;
